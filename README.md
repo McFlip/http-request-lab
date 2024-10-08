@@ -1,6 +1,12 @@
 # http-request-lab
 
-Learn how to use REST APIs. Demos built with HTTPie and Flask.
+Learn how to use REST APIs. Demos built with HTTPie and Flask in Python.
+
+This lab is aimed at beginners.
+
+- You are not a programmer but you need to use APIs.
+- You are a programmer that is learning API programming and
+want to see some common examples.
 
 ## Prereqs
 
@@ -36,3 +42,20 @@ When you are ready to move on, terminate the server by switching
 to the server terminal and hitting `ctrl + c`.
 Then change the server terminal to the next directory.
 You don't have to change the client directory.
+
+## Lab TOC
+
+0. Hello World intro
+1. Response codes
+2. JSON
+3. Semantic Versioning & intro to routes
+4. Dynamic routes
+5. Query strings & URL encoding
+6. HTTP methods/verbs and CRUD
+7. Forms
+8. Files & Base64 encoding
+9. Headers & Auth Tokens
+10. Cookies
+11. CORS
+12. Redirects
+13. Rate limiting
