@@ -23,12 +23,20 @@ git clone git@github.com:McFlip/http-request-lab.git
 cd http-request-lab
 ```
 
-Create a virtual environment and install [Flask](https://flask.palletsprojects.com/en/3.0.x/installation/).
+Create a virtual environment
+
+```bash
+python3 -m venv .
+```
+
 >Note: You may have to install `venv` first `sudo apt install python3.10-venv`
+>*replace `3.10` with the appropriate version*
 
-Install Flask-CORS `pip install Flask-CORS`.
+Install dependancies such as HTTPie and Flask
 
-Install `HTTPie` `pip install httpie`
+```bash
+pip install -r requirements.txt
+```
 
 ## How to use this lab
 
@@ -59,3 +67,8 @@ You don't have to change the client directory.
 11. CORS
 12. Redirects
 13. Rate limiting
+
+## Reference
+
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/installation/)
+- [HTTPie](https://httpie.io/)
