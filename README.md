@@ -77,7 +77,8 @@ Execute the http request in the client terminal using `http`
 When you are ready to move on, terminate the server by switching
 to the server terminal and hitting `ctrl + c`.
 Then change the server terminal to the next directory.
-You don't have to change the client directory.
+You don't have to change the client directory
+except for labs 8 & 13.
 
 ## Lab TOC
 
