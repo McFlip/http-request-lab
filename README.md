@@ -83,19 +83,19 @@ except for labs 8 & 13.
 ## Lab TOC
 
 0. [Hello World intro](/0_hello/README.md)
-1. [Response codes](/01_status/)
-2. [JSON]
-3. [Semantic Versioning & intro to routes]
-4. [Dynamic routes]
-5. [Query strings & URL encoding]
-6. [HTTP methods/verbs and CRUD]
-7. [Forms]
-8. [Files & Base64 encoding]
-9. [Headers & Auth Tokens]
-10. [Cookies]
-11. [CORS]
-12. [Redirects]
-13. [Rate limiting]
+1. [Response codes](/01_status/README.md)
+2. [JSON](/02_json/README.md)
+3. [Semantic Versioning & intro to routes](/03_versioning/README.md)
+4. [Dynamic routes](/04_routes/README.md)
+5. [Query strings & URL encoding](/05_query/README.md)
+6. [HTTP methods/verbs and CRUD](/06_methods/README.md)
+7. [Forms](/07_forms/README.md)
+8. [Files & Base64 encoding](/08_files/README.md)
+9. [Headers & Auth Tokens](/09_headers/README.md)
+10. [Cookies](/10_cookies/README.md)
+11. [CORS](/11_cors/README.md)
+12. [Redirects](/12_redirect/README.md)
+13. [Rate limiting](/13_rate/README.md)
 
 ## Reference
 
