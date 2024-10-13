@@ -166,3 +166,4 @@ pyvenv.cfg
 bin/
 share/
 lib64
+Scripts/
