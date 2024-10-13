@@ -26,6 +26,7 @@ operations.
 
 `OPTIONS` is sometimes sent as a "preflight" request
 to see what the API supports.
+You will see an example of this in the `CORS` lab.
 `HEAD` is like `GET` but only gets headers, not the body.
 `PATCH` updates part of a resource.
 `PUT` completely overwrites the old resource with a new copy.
