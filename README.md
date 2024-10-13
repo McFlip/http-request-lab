@@ -8,11 +8,18 @@ This lab is aimed at beginners.
 - You are a programmer that is learning API programming and
 want to see some common examples.
 
+This lab is inspired by [pie.dev](pie.dev)
+which uses [httpbin.org](httpbin.org)
+
+This lab will show you side-by-side the client and server.
+
 ## Prereqs
 
-I suggest using `tmux` or some other terminal multiplexer so that you can view
-the client and server terminals side-by-side.
+I suggest using [tmux](https://github.com/tmux/tmux/wiki) or some other terminal
+multiplexer so that you can view the client and server terminals side-by-side.
 If you are a using a GUI environment you can also tile 2 windows.
+Another great option is to use [vscode](https://code.visualstudio.com/)
+since it has a built-in terminal and markdown previewer.
 
 Install [Python3](https://www.python.org/downloads/).
 
@@ -31,6 +38,27 @@ python3 -m venv .
 
 >Note: You may have to install `venv` first `sudo apt install python3.10-venv`
 >*replace `3.10` with the appropriate version*
+>
+> [!NOTE]
+> In Windows use the `py` launcher instead of `python3`
+
+Activate the environment.
+
+On Linux:
+
+```bash
+. .venv/bin/activate
+```
+
+On Windows:
+
+```PowerShell
+.\venv\Scripts\Activate.ps1
+```
+
+> [!NOTE]
+> We will be opening multiple terminals, so remember to activate
+> the environment on every terminal.
 
 Install dependancies such as HTTPie and Flask
 
