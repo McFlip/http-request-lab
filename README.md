@@ -36,11 +36,11 @@ Create a virtual environment
 python3 -m venv .
 ```
 
->Note: You may have to install `venv` first `sudo apt install python3.10-venv`
+> [!NOTE]
+>You may have to install `venv` first `sudo apt install python3.10-venv`
 >*replace `3.10` with the appropriate version*
 >
-> [!NOTE]
-> In Windows use the `py` launcher instead of `python3`
+>In Windows use the `py` launcher instead of `python3`
 
 Activate the environment.
 
