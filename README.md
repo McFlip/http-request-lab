@@ -82,20 +82,20 @@ except for labs 8 & 13.
 
 ## Lab TOC
 
-0. Hello World intro
-1. Response codes
-2. JSON
-3. Semantic Versioning & intro to routes
-4. Dynamic routes
-5. Query strings & URL encoding
-6. HTTP methods/verbs and CRUD
-7. Forms
-8. Files & Base64 encoding
-9. Headers & Auth Tokens
-10. Cookies
-11. CORS
-12. Redirects
-13. Rate limiting
+0. [Hello World intro](/0_hello/README.md)
+1. [Response codes](/01_status/)
+2. [JSON]
+3. [Semantic Versioning & intro to routes]
+4. [Dynamic routes]
+5. [Query strings & URL encoding]
+6. [HTTP methods/verbs and CRUD]
+7. [Forms]
+8. [Files & Base64 encoding]
+9. [Headers & Auth Tokens]
+10. [Cookies]
+11. [CORS]
+12. [Redirects]
+13. [Rate limiting]
 
 ## Reference
 
