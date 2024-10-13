@@ -69,6 +69,10 @@ User-Agent: HTTPie/3.2.2
 > [!NOTE]
 > In a real production app, something like a JSON Web Token [(JWT)](https://jwt.io/)
 > would be used instead of a passphrase.
+> [!NOTE]
+> You can use the [session](https://httpie.io/docs/cli/sessions) feature
+> of httpie to avoid having to re-type auth headers
+> for each request
 
 One final Note:
 
