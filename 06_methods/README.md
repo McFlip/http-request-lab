@@ -31,6 +31,10 @@ You will see an example of this in the `CORS` lab.
 `PATCH` updates part of a resource.
 `PUT` completely overwrites the old resource with a new copy.
 
+> [!NOTE]
+> If you want a turn-key CRUD backend for your front-end app,
+> I recommend trying [pocketbase](pocketbase.io).
+
 ## CRUD Lab
 
 We are going to work with the following schema:
