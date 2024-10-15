@@ -82,7 +82,7 @@ except for labs 8 & 13.
 
 ## Lab TOC
 
-0. [Hello World intro](/0_hello/README.md)
+0. [Hello World intro](/00_hello/README.md)
 1. [Response codes](/01_status/README.md)
 2. [JSON](/02_json/README.md)
 3. [Semantic Versioning & intro to routes](/03_versioning/README.md)
