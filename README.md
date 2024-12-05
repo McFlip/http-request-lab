@@ -33,7 +33,7 @@ cd http-request-lab
 Create a virtual environment
 
 ```bash
-python3 -m venv .
+python3 -m venv .venv
 ```
 
 > [!NOTE]
