@@ -53,7 +53,7 @@ On Linux:
 On Windows:
 
 ```PowerShell
-.\Scripts\Activate.ps1
+.\venv\Scripts\Activate.ps1
 ```
 
 > [!NOTE]
